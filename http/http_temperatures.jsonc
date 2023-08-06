@@ -1,0 +1,11 @@
+
+/*
+ * POST 
+ * http://127.0.0.1:5000/api/temperature
+ */
+
+{
+    "room": 1,
+    "temperature": 9,
+    "date": "10-16-2028 17:55:35"
+}
